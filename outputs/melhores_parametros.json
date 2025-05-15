@@ -1,0 +1,10 @@
+{
+  "classificador__colsample_bytree": 0.6727299868828402,
+  "classificador__gamma": 0.18340450985343382,
+  "classificador__learning_rate": 0.05563633644393066,
+  "classificador__max_depth": 9,
+  "classificador__n_estimators": 402,
+  "classificador__reg_alpha": 0.43194501864211576,
+  "classificador__reg_lambda": 0.2912291401980419,
+  "classificador__subsample": 0.8835558684167137
+}
