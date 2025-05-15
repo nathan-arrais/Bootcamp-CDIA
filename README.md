@@ -96,6 +96,7 @@ PROJETO_IA/
 │
 ├── requirements.txt             # Dependências do projeto
 └── README.md                    # Instruções do projeto
+```
 
 ## Como executar a API
 
