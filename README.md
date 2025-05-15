@@ -23,6 +23,7 @@ Este projeto foi conduzido com foco na clareza do processo, desde a definição 
 
 - Desenvolvimento orientado a scripts com modularização clara (preprocessamento, modelagem, previsão, API e dashboard).
 - Uso de pipelines com `scikit-learn`, balanceamento com `SMOTE` e otimização com `RandomizedSearchCV`.
+- O modelo foi originalmente desenvolvido em notebook, mas está devidamente modularizado em scripts, organizados nas pastas training e prediction, facilitando reuso, manutenção e integração com outros sistemas.
 
 ### Gestão de Atividades
 
@@ -48,6 +49,14 @@ Este projeto foi conduzido com foco na clareza do processo, desde a definição 
 - Melhora nas classes desbalanceadas com uso de SMOTE.
 - Predições salvas em `submissao_final.csv` no formato exigido.
 - Modelo disponível via API + dashboard com filtro por classe.
+
+## Acesso ao Dashboard Interativo
+
+A visualização interativa dos resultados pode ser acessada pelo seguinte link:
+
+[Acesse o Dashboard Streamlit](https://bootcamp-cdia-8mmda4attdvthx8ybjtpkt.streamlit.app/)
+
+*Permite upload de arquivos CSV, visualização das predições e análise exploratória com filtros por classe.*
 
 ### Aprendizados
 
