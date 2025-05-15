@@ -57,6 +57,7 @@ Este projeto foi conduzido com foco na clareza do processo, desde a definição 
 
 ## Estrutura do Projeto
 
+```plaintext
 PROJETO_IA/
 ├── data/                         # Dados originais (train/test)
 │   ├── bootcamp_test.csv
@@ -95,7 +96,6 @@ PROJETO_IA/
 │
 ├── requirements.txt             # Dependências do projeto
 └── README.md                    # Instruções do projeto
-
 
 ## Como executar a API
 
